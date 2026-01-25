@@ -9,8 +9,8 @@
 | industry = Web hosting, cloud computing, domain services, digital services
 | founded = {{Start date and age|2026}} <!-- Replace YYYY with founding year -->
 | founder = Manikandan M <!-- Replace if different -->
-| headquarters = Gummidipoondi, Tamil Nadu, India
-| area_served = India
+| headquarters = Gummidipoondi, IN
+| area_served = Worldwide
 | key_people = 
 | products = Shared Hosting (cPanel), WordPress Hosting, E-commerce Hosting, Cloud Hosting, VPS Hosting, Domain Reseller, Digital Goods, Digital Paid Services
 | services = Web hosting, cloud hosting, VPS hosting, domain reseller services, digital goods and digital paid services
