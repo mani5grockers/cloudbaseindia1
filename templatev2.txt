@@ -3,7 +3,7 @@
 
 {{Infobox company
 | name = CloudBaseIndia
-| logo = CloudBaseIndia logo.svg
+| logo = CloudBaseIndia_logo.svg
 | logo_alt = CloudBaseIndia logo
 | type = Private
 | industry = Web hosting, cloud computing, domain services, digital services
