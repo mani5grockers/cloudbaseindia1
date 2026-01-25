@@ -1,0 +1,83 @@
+{{Short description|Indian web hosting and digital services company}}
+{{Use dmy dates|date=January 2026}}
+
+{{Infobox company
+| name = CloudBaseIndia
+| logo = 
+| logo_alt = CloudBaseIndia logo
+| type = Private
+| industry = Web hosting, cloud computing, domain services, digital services
+| founded = {{Start date and age|2026}}
+| founder = Manikandan M
+| headquarters = Gummidipoondi, IN
+| area_served = Worldwide
+| key_people = 
+| products = Shared Hosting (cPanel), WordPress Hosting, Reseller Hosting, Cloud Hosting, VPS Hosting, Dedicated Server, Email Hosting, Domain Reseller, SSL Certificates, Digital Goods, Digital Paid Services
+| services = Web hosting, cloud hosting, VPS hosting, domain reseller services, business email and security services, digital paid services
+| website = {{Official website|https://cloudbaseindia.com}}
+}}
+
+'''CloudBaseIndia''' is an Indian web hosting and digital services provider based in Gummidipoondi, Tamil Nadu. The company provides shared hosting, WordPress hosting, reseller hosting, cloud hosting, VPS hosting, and domain reseller services, along with digital goods and paid digital services.<ref name="cloudbase_official">{{cite web |title=CloudBaseIndia – Official Website |url=https://cloudbaseindia.com |website=CloudBaseIndia |access-date=25 January 2026}}</ref>
+
+== History ==
+CloudBaseIndia was founded in 2026 by '''Manikandan M'''.<ref name="cloudbase_official" />
+It provides hosting and infrastructure services primarily to individuals, startups, and small businesses in India.<ref name="cloudbase_official" />
+
+== Products and services ==
+CloudBaseIndia provides hosting and digital services such as:
+
+=== Web hosting ===
+* Shared hosting (cPanel)<ref name="cloudbase_official" />
+* WordPress hosting<ref name="cloudbase_official" />
+* Reseller hosting<ref name="cloudbase_official" />
+* Cloud hosting<ref name="cloudbase_official" />
+
+=== Server hosting ===
+* Virtual private server (VPS) hosting<ref name="cloudbase_official" />
+* Dedicated server hosting<ref name="cloudbase_official" />
+
+=== Domain services ===
+* Domain reseller services<ref name="cloudbase_official" />
+* Domain registration and transfer services<ref name="cloudbase_official" />
+
+=== Email and security services ===
+* Email hosting services<ref name="cloudbase_official" />
+* SSL certificate services<ref name="cloudbase_official" />
+* Malware protection and security add-ons<ref name="cloudbase_official" />
+* Backup add-ons and recovery services<ref name="cloudbase_official" />
+
+=== Digital goods and paid services ===
+CloudBaseIndia offers digital goods and paid service-based solutions related to website management and infrastructure support.<ref name="cloudbase_official" />
+
+== Operations ==
+CloudBaseIndia delivers services using subscription-based billing cycles and offers plan options depending on service type and customer requirements.<ref name="cloudbase_official" />
+
+== Customer support ==
+CloudBaseIndia provides customer support for service-related issues through its customer portal and official support channels.<ref name="cloudbase_official" />
+
+== Notability ==
+This article is in draft form. For publication on Wikipedia, it typically requires significant coverage in independent reliable sources that are not affiliated with the company, such as mainstream news outlets or established industry publications.<ref>{{cite web |title=Wikipedia:Notability (organizations and companies) |url=https://en.wikipedia.org/wiki/Wikipedia:Notability_(organizations_and_companies) |website=Wikipedia |access-date=25 January 2026}}</ref>
+
+== See also ==
+* [[Web hosting service]]
+* [[Cloud computing]]
+* [[Domain name registrar]]
+* [[Virtual private server]]
+* [[Dedicated hosting service]]
+* [[Digital goods]]
+* [[Secure Sockets Layer]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|https://cloudbaseindia.com}}
+* {{Twitter|cloudbaseindia}}
+* [https://t.me/cloudbaseindia CloudBaseIndia on Telegram]
+* [https://www.instagram.com/cloudbaseindia/ CloudBaseIndia on Instagram]
+* [https://www.youtube.com/@cloudbaseindia CloudBaseIndia on YouTube]
+
+[[Category:Web hosting]]
+[[Category:Cloud computing providers]]
+[[Category:Information technology companies of India]]
+[[Category:Companies based in Tamil Nadu]]
