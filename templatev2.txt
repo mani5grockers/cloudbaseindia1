@@ -1,5 +1,5 @@
 {{Short description|Indian web hosting and digital services company}}
-{{Use dmy dates|date=January 2026}}
+{{CLOUDBASEINDIA|date=January 2026}}
 
 {{Infobox company
 | name = CloudBaseIndia
