@@ -74,42 +74,42 @@ var _localLang = {
             <div class="billing-cycle-grid" id="billingCycleGrid">
                 {if $pricing.monthly}
                     <div class="billing-cycle-card{if $billingcycle eq 'monthly'} active{/if}" data-value="monthly">
-                        <span class="billing-cycle-title">Monthly</span>
+                        <span class="billing-cycle-title">1 Month</span>
                         <span class="billing-cycle-price">{$pricing.monthly}</span>
                     </div>
                 {/if}
 
                 {if $pricing.quarterly}
                     <div class="billing-cycle-card{if $billingcycle eq 'quarterly'} active{/if}" data-value="quarterly">
-                        <span class="billing-cycle-title">Quarterly</span>
+                        <span class="billing-cycle-title">3 Month</span>
                         <span class="billing-cycle-price">{$pricing.quarterly}</span>
                     </div>
                 {/if}
 
                 {if $pricing.semiannually}
                     <div class="billing-cycle-card{if $billingcycle eq 'semiannually'} active{/if}" data-value="semiannually">
-                        <span class="billing-cycle-title">Semi-Annually</span>
+                        <span class="billing-cycle-title">6 Month</span>
                         <span class="billing-cycle-price">{$pricing.semiannually}</span>
                     </div>
                 {/if}
 
                 {if $pricing.annually}
                     <div class="billing-cycle-card{if $billingcycle eq 'annually'} active{/if}" data-value="annually">
-                        <span class="billing-cycle-title">Annually</span>
+                        <span class="billing-cycle-title">12 Month</span>
                         <span class="billing-cycle-price">{$pricing.annually}</span>
                     </div>
                 {/if}
 
                 {if $pricing.biennially}
                     <div class="billing-cycle-card{if $billingcycle eq 'biennially'} active{/if}" data-value="biennially">
-                        <span class="billing-cycle-title">Biennially</span>
+                        <span class="billing-cycle-title">24 months</span>
                         <span class="billing-cycle-price">{$pricing.biennially}</span>
                     </div>
                 {/if}
 
                 {if $pricing.triennially}
                     <div class="billing-cycle-card{if $billingcycle eq 'triennially'} active{/if}" data-value="triennially">
-                        <span class="billing-cycle-title">Triennially</span>
+                        <span class="billing-cycle-title">36 month</span>
                         <span class="billing-cycle-price">{$pricing.triennially}</span>
                     </div>
                 {/if}
