@@ -121,7 +121,10 @@ var _localLang = {
         .billing-cycle-hidden {
             display: none !important;
         }
-
+       
+        .billing-cycle-card {
+            transition: all 0.25s ease;
+       }
         .billing-cycle-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
